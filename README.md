@@ -1,8 +1,8 @@
-# NodeGo BOT
-NodeGo BOT
+# NodeGo VOT
+NodeGo VOT
 
-- Register Here : [NodeGo](https://app.nodego.ai/r/NODE8481C0EA32B3)
-- Use Code : NODE8481C0EA32B3
+- Register Here : [NodeGo](https://app.nodego.ai/r/NODEF83C1F837A09)
+- Use Code : NODEF83C1F837A09
 
 ## Features
 
@@ -27,10 +27,10 @@ Note:
 
 1. **Clone The Repositories:**
    ```bash
-   git clone https://github.com/vonssy/NodeGo-BOT.git
+   git clone https://github.com/xmandirigma/NodeGo-VOT.git
    ```
    ```bash
-   cd NodeGo-BOT
+   cd NodeGo-VOT
    ```
 
 2. **Install Requirements:**
